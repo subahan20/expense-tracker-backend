@@ -1,0 +1,8 @@
+Django>=5.0.0
+djangorestframework>=3.15.0
+djangorestframework-simplejwt>=5.3.0
+django-cors-headers>=4.3.0
+PyJWT>=2.8.0
+sqlparse>=0.5.0
+tzdata>=2024.1
+gunicorn>=22.0.0
